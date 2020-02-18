@@ -1,0 +1,30 @@
+.content-header {
+  width: 100%;
+  height: 64px;
+  background: #4A90E2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #FFF;
+}
+
+.content-header ul {
+  list-style: none;
+}
+
+.content-header #logo {
+  padding-left: 42px;
+}
+
+.content-header .perfil {
+  padding-right: 56px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+
+
+.content-header .perfil span {
+  margin-right: 10px;
+}
