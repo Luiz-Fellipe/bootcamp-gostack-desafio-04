@@ -12,7 +12,7 @@
   list-style: none;
 }
 
-.content-header #logo {
+.content-header img {
   padding-left: 42px;
 }
 
@@ -22,8 +22,6 @@
   display: flex;
   align-items: center;
 }
-
-
 
 .content-header .perfil span {
   margin-right: 10px;
