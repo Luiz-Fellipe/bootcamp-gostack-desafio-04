@@ -37,6 +37,6 @@ As informações contidas na interface são **estáticas** e não refletem nenhu
 
 ## Tela da Aplicação
 
-![Facebook](.github/facebook.png)
+![Facebook](.github/facebookScreen.png)
 
 
